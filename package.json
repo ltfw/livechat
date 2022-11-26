@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "server": "^1.0.37"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
